@@ -16,7 +16,7 @@ export const ptSidebar = sidebar({
       children: "structure",
     },
     {
-      text: "Features",
+      text: "Funções",
       icon: "sitemap",
       prefix: "features/",
       children: "structure",
